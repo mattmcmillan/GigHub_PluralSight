@@ -77,7 +77,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: Nunito, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 500;
     line-height: 1.1;
 }
@@ -104,8 +104,8 @@ button, input, select, textarea {
     }
 
 .btn {
-    font-size: 17px;
-    padding: 7px 20px;
+    /*font-size: 17px;
+    padding: 7px 20px;*/
     -ms-border-radius: 15px;
     border-radius: 15px;
 }
